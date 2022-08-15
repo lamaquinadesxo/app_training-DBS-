@@ -32,62 +32,16 @@ def index():
         return(render_template("index.html",result1="waiting", result2="waiting"))
 
 
-# In[ ]:
+# In[4]:
 
 
 if __name__ == "__main__":
     app.run()
 
 
-# In[ ]:
 
 
 
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
